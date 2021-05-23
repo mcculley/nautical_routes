@@ -3,6 +3,85 @@
   <Document>
     <name>Bahamas Landmarks</name>
     <Placemark>
+      <name>Coopers Town</name>
+      <Point>
+        <coordinates>-77.50858102349262,26.86758990735391,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spanish Cay</name>
+      <Point>
+        <gx:drawOrder>1</gx:drawOrder>
+        <coordinates>-77.52430711747104,26.93936667418138,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Man-O-War Cay</name>
+      <Point>
+        <coordinates>-77.00685548613913,26.59344412464318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sandy Point</name>
+      <Point>
+        <coordinates>-77.39299254916025,26.0002500886315,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fox Town</name>
+      <Point>
+        <coordinates>-77.80032059618692,26.9155763835622,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Green Turtle Cay</name>
+      <Point>
+        <coordinates>-77.33738370534172,26.77956205786526,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand Cay</name>
+      <Point>
+        <coordinates>-78.32394123420057,27.21693815922962,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Abaco Port</name>
+      <Point>
+        <coordinates>-77.53306726534623,26.89086929892963,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marsh Harbour</name>
+      <Point>
+        <coordinates>-77.06756440689884,26.54252381572313,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hope Town</name>
+      <Point>
+        <coordinates>-76.9590622614236,26.5375198964045,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baker's Bay</name>
+      <Point>
+        <coordinates>-77.15141653095361,26.68470805244966,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Treasure Cay</name>
+      <Point>
+        <coordinates>-77.28806286834124,26.66747721765345,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Freeport</name>
+      <Point>
+        <coordinates>-78.77363676451942,26.52203783291342,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Walker's Cay, Bahamas</name>
       <Point>
         <coordinates>-78.39563757293739,27.25734741533932,0</coordinates>
