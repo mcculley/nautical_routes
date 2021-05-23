@@ -33,9 +33,9 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Fort Pierce, Florida</name>
+      <name>Fort Pierce Inlet</name>
       <Point>
-        <coordinates>-80.32722866990474,27.46105718250078,0</coordinates>
+        <coordinates>-80.28952909302345,27.47004815707975,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -48,6 +48,18 @@
       <name>Ortona Lock</name>
       <Point>
         <coordinates>-81.30469947258322,26.78912734866875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fort Pierce Harbor</name>
+      <Point>
+        <coordinates>-80.3212667312221,27.45975071725251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clewiston Lock</name>
+      <Point>
+        <coordinates>-80.91840506513091,26.75990513308457,0</coordinates>
       </Point>
     </Placemark>
   </Document>
