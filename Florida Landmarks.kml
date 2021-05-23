@@ -3,6 +3,36 @@
   <Document>
     <name>Florida Landmarks</name>
     <Placemark>
+      <name>Roosevelt Bridge</name>
+      <Point>
+        <coordinates>-80.25843999999999,27.20375,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port Mayaca</name>
+      <Point>
+        <coordinates>-80.620931,26.984384,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lock</name>
+      <Point>
+        <coordinates>-80.28445600000001,27.111851,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>More Haven Lock</name>
+      <Point>
+        <coordinates>-81.08735799999999,26.84006,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Lucie Nuclear Power Plant</name>
+      <Point>
+        <coordinates>-80.246565,27.348426,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Fort Pierce, Florida</name>
       <Point>
         <coordinates>-80.32722866990474,27.46105718250078,0</coordinates>
