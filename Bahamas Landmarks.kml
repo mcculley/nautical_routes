@@ -3,6 +3,12 @@
   <Document>
     <name>Bahamas Landmarks</name>
     <Placemark>
+      <name>Master's Marine Shipyard</name>
+      <Point>
+        <coordinates>-76.48888890000001,25.35194,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Coopers Town</name>
       <Point>
         <coordinates>-77.50858102349262,26.86758990735391,0</coordinates>
