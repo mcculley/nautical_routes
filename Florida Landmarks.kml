@@ -38,5 +38,11 @@
         <coordinates>-80.32722866990474,27.46105718250078,0</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>W.P. Franklin Lock</name>
+      <Point>
+        <coordinates>-81.69387511609744,26.72167259258509,0</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
