@@ -44,5 +44,11 @@
         <coordinates>-81.69387511609744,26.72167259258509,0</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Ortona Lock</name>
+      <Point>
+        <coordinates>-81.30469947258322,26.78912734866875,0</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
