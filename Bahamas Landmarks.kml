@@ -8,5 +8,11 @@
         <coordinates>-78.39563757293739,27.25734741533932,0</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Nassau Harbor, Bahamas</name>
+      <Point>
+        <coordinates>-77.33741326481622,25.08227797544027,0</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
